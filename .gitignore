@@ -9,3 +9,20 @@ Saved/
 *.opensdf
 *.sdf
 *.VC.db
+
+# Visual Studio
+*.VC.opendb
+.vsconfig
+
+# Unreal Engine generated files
+Plugins/**/Binaries/*
+Plugins/**/Intermediate/*
+
+# Build files
+Build/*
+
+# Built data for maps
+*_BuiltData.uasset
+
+# Cache files
+DerivedDataCache/*
